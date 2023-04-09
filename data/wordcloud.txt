@@ -1,0 +1,36 @@
+A tag cloud (also known as a word cloud, wordle or weighted list in visual 
+design) is a visual representation of text data, which is often used to depict 
+keyword metadata on websites, or to visualize free form text. Tags are usually 
+single words, and the importance of each tag is shown with font size or color. 
+When used as website navigation aids, the terms are hyperlinked to items 
+associated with the tag. 
+
+In the language of visual design, a tag cloud (or word cloud) is one kind of 
+"weighted list", as commonly used on geographic maps to represent the relative 
+size of cities in terms of relative typeface size. An early printed example of 
+a weighted list of English keywords was the "subconscious files" in Douglas 
+Coupland's Microserfs (1995). A German appearance occurred in 1992.
+
+The specific visual form and common use of the term "tag cloud" rose to 
+prominence in the first decade of the 21st century as a widespread feature of 
+early Web 2.0 websites and blogs, used primarily to visualize the frequency 
+distribution of keyword metadata that describe website content, and as a 
+navigation aid.
+
+The first tag clouds on a high-profile website were on the photo sharing site 
+Flickr, created by Flickr co-founder and interaction designer Stewart 
+Butterfield in 2004. That implementation was based on Jim Flanagan's Search 
+Referral Zeitgeist, a visualization of Web site referrers. Tag clouds were 
+also popularized around the same time by Del.icio.us and Technorati, among 
+others.
+
+Oversaturation of the tag cloud method and ambivalence about its utility as a 
+web-navigation tool led to a decline of usage among these early adopters. 
+Flickr gave a five-word acceptance speech for the 2006 "Best Practices" Webby 
+Award, which simply stated "sorry about the tag clouds."
+
+A second generation of software development discovered a wider diversity of 
+uses for tag clouds as a basic visualization method for text data. Several 
+extensions of tag clouds have been proposed in this context. 
+
+Source: Wikipedia.org
